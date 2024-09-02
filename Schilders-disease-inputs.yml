@@ -1,0 +1,21 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/schilders-disease-diffuse---secondary.py
+inputModule3:
+  class: File
+  path: python/schilders-disease-myelitis---secondary.py
+inputModule4:
+  class: File
+  path: python/concentric-schilders-disease---secondary.py
+inputModule5:
+  class: File
+  path: python/schilder's---secondary.py
+inputModule6:
+  class: File
+  path: python/schilders-disease-demyelinating---secondary.py
+inputModule7:
+  class: File
+  path: python/output-cases.py
